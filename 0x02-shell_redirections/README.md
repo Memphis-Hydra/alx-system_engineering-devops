@@ -1,1 +1,1 @@
-Script for Hello World
+Script for Smiley
