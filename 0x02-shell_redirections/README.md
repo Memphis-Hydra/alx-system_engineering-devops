@@ -1,1 +1,1 @@
-my readme
+Script for Hello World
